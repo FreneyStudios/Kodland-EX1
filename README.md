@@ -6,4 +6,5 @@ modules:
   - random
 
 entry point:
-    this program uses : if __name__ == "__main__" : as entry
+  - this program uses : if __name__ == "__main__" : as entry
+  - then jump to the main function
