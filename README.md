@@ -13,3 +13,8 @@ entry point:
 follow us!
   - our website : [here!](www.studios.freney.com)
   - our YT      : TODO:ADD YT LINK
+
+TODO:
+  [] Garbage collector
+  [] Configurator
+  
