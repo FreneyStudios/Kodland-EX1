@@ -11,5 +11,5 @@ entry point:
   - then jump to the main function
 
 follow us!
-  our website : [link](studios.freney.com)
+  our website : [here!](www.studios.freney.com)
   our YT      : TODO:ADD YT LINK
