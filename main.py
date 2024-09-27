@@ -1,5 +1,14 @@
 """This program is propriety of Freney Studios"""
 import random
+import gc
+
+try:
+    gc.enable()
+except ValueError:
+    print("ERROR")
+    pass
+except Exception as e:
+    print(f"ERROR: {e}")
 
 facts = [
     "So suonare il pianoforte!!",
