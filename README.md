@@ -15,6 +15,6 @@ follow us!
   - our YT      : TODO:ADD YT LINK
 
 TODO:
-  - [] Garbage collector
+  - [X] Garbage collector
   - [] Configurator
   
