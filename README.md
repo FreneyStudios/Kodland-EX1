@@ -17,4 +17,6 @@ follow us!
 TODO:
   - [X] Garbage collector
   - [ ] Configurator
+  - [ ] Simple GUI with Tkinter
+  - [ ] FS FEHS (Freney Studios Full Exception Handle Suite)
   
