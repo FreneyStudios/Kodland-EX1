@@ -16,5 +16,5 @@ follow us!
 
 TODO:
   - [X] Garbage collector
-  - [] Configurator
+  - [N] Configurator
   
