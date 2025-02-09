@@ -12,6 +12,7 @@ a list of some simple common & cool Python programs
 
 1) main: the simple generator
 2) password_gen: password generator with tkinter
+3) WebDiary1/2: Two WebDiaries apps with Flask
 
 
 ## Documentation
